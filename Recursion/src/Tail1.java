@@ -18,8 +18,9 @@ public class Tail1
 				}
 			else
 				{
-					return n + mystery(n-2);
+					return n + mystery(n - 2);
 				}
 		}
+		
 
 	}
