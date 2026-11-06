@@ -7,6 +7,8 @@ public class Tail1
 				// TODO Auto-generated method stub
 				
 				System.out.println(mystery(5));
+				System.out.println(mystery(7));
+				System.out.println("\\\\BIG CHANGE//");
 
 			}
 		
